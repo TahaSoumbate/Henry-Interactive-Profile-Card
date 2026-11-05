@@ -4,7 +4,6 @@ A modern, responsive profile card component built with clean HTML5 and CSS3. Thi
 
 ## 📸 Preview
 
-*(Tip: Take a screenshot of your project, upload it to GitHub, and add the image link here!)*
 ![Profile Card Preview](./public/image/screencapture-127-0-0-1-5500-csstp-Carrd-Template-index-html-2026-11-05-20_43_52.png)
 
 ## 🚀 Features
